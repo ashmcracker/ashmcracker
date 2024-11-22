@@ -1,18 +1,22 @@
-## 👋 This is @Ashmcracker!
-
+# 👋 Hi, I'm Ashmcracker!  
+🌍 I am passionate about **Linux**, **Cloud Computing**, and **DevOps Engineering**.  
+🔧 I specialize in designing, implementing, and optimizing scalable and reliable systems.  
+📫 Connect with me:  
 [![Email](https://img.shields.io/badge/-ashm.tan@outlook.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:ashm.tan@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-AshmTan-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ashmcracker/?locale=en_US)
 
-
-
+---
 [![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
 
+## 🛠️ Skills Overview  
+### 🌟 Expertise
+- 🥪 **Linux Administration**: System monitoring, configuration, and optimization.  
+- 🍑 **Cloud Platforms**: Proficient in **Azure**, **AWS**, and **GCP**.  
+- 🥗 **Networking**: Advanced knowledge in TCP/IP, routing, VPN, and firewall configuration.  
+- 🍊 **DevOps**: CI/CD, IaC (Infrastructure as Code), containerization, and orchestration.  
+- 🍑 **Programming & Automation**: Go, Python, Bash, and Java for system automation and application development.  
 
-### ⚒ Skills
-🥪 **Linux** / 🥗 **Azure** / 🍊 **Network** / 🍑 **Kubernetes**/ 🍑 **DevOps**
-
-
-
+---
 ### 🧰 **Tech Stack**  
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,python,go,java,vue,html,js,css,terraform,git,docker,kubernetes,ansible)](https://skillicons.dev)
 
@@ -20,7 +24,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,jenkins,githubactions,gitlab,github,nginx,kafka,prometheus,grafana,elasticsearch,azure,aws,gcp)](https://skillicons.dev)
 
+### 🗄️ Tools & Technologies
+| **Category**         | **Technologies**                                                                                     |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Programming**       | Go, Python, Java, Bash                                                                             |
+| **Automation**        | Terraform, Ansible, Jenkins, GitHub Actions                                                        |
+| **Cloud Platforms**   | Azure, AWS, GCP                                                                                    |
+| **DevOps & Containers** | Docker, Kubernetes, Git, GitLab                                                                  |
+| **Monitoring & Logs** | Prometheus, Grafana, Elasticsearch                                                                 |
+| **Databases**         | MySQL, Redis                                                                                       |
+| **Web Servers**       | Nginx, Apache                                                                                      |
 
+---
 
 
 ### 🏅 **Certifications**
