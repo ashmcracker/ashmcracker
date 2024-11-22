@@ -1,4 +1,4 @@
-## 👋 This is @ProgramZmh!
+## 👋 This is @Ashmcracker!
 
 [![email](https://img.shields.io/badge/-ashm.tan@outlook.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:ashm.tan@outlook.com)
 
@@ -6,27 +6,29 @@
 ### ⚒ Skills
 🥪 **Linux** / 🥗 **Azure** / 🍊 **Network** / 🍑 **Kubernetes**/ 🍑 **DevOps**
 
-![GitHub 成就](https://github.com/ashmcracker/metrics/blob/master/github-metrics.svg)
-![](https://github.com/ashmcracker/metrics/blob/master/github-metrics.svg)
+### 🧰 **Core Competencies**  
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,go,java,vue)](https://skillicons.dev)
 
-### 🔥 Achievement
-[![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/6369)](https://trendshift.io/repositories/6369)
-[![Spark Lab S1 #1 Place](https://spark-lab.city/api/badge?session=1&prize=1)](https://spark-lab.city)
+
+
+### 🛠️ **Infrastructure as Code & Automation**  
+[![My Skills](https://skillicons.dev/icons?i=ansible,jenkins,githubactions,terraform,git,gitlab,github,)](https://skillicons.dev)
+
+
+### ☁️ **Cloud Infrastructure & Orchestration**  
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,openstack,docker,kubernetes)](https://skillicons.dev)
+
+
+
+### 🗄️ **Data Management & Middleware**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,nginx,kafka,rabbitmq)](https://skillicons.dev)
+
+
+
+### 🔧 **Observability & Monitoring**  
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch)](https://skillicons.dev)  
+
+
+
 
 [![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
-
-### 🍉 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,arduino,lua,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,fastapi,django,flask,pytorch,tensorflow,opencv,qt,electron,tauri,threejs)](https://skillicons.dev)
-
-### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
-
-### 🍏 Contribution
-[![zmh-program's GitHub | Stats](https://stats.quira.sh/zmh-program/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zmh-program)
-
-### 🙌 Relation Ship
-
-- [LightXi Inc.](https://github.com/LightXi) (Co-Founder & CTO)
-- [Sh1n3zZ](https://github.com/Sh1n3zZ) (Girl Friend)
-
-
