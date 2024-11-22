@@ -1,14 +1,13 @@
 ## 👋 This is @ProgramZmh!
 
-[![X (Twitter)](https://img.shields.io/badge/-ProgramZmh-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/programzmh)
-[![WeChat](https://img.shields.io/badge/-zmh--program-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
-[![email](https://img.shields.io/badge/-zmh@lightxi.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zmh@lightxi.com)
+[![email](https://img.shields.io/badge/-ashm.tan@outlook.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:ashm.tan@outlook.com)
 
-
-CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 
 ### ⚒ Skills
-🥪 **Front End** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
+🥪 **Linux** / 🥗 **Azure** / 🍊 **Network** / 🍑 **Kubernetes**/ 🍑 **DevOps**
+
+![GitHub 成就](https://github.com/ashmcracker/metrics/blob/master/github-metrics.svg)
+![](https://github.com/ashmcracker/metrics/blob/master/github-metrics.svg)
 
 ### 🔥 Achievement
 [![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/6369)](https://trendshift.io/repositories/6369)
@@ -29,3 +28,5 @@ CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 
 - [LightXi Inc.](https://github.com/LightXi) (Co-Founder & CTO)
 - [Sh1n3zZ](https://github.com/Sh1n3zZ) (Girl Friend)
+
+
