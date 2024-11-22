@@ -1,7 +1,8 @@
 ## 👋 This is @Ashmcracker!
 
-[![email](https://img.shields.io/badge/-ashm.tan@outlook.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:ashm.tan@outlook.com)
-[![X (Twitter)](https://img.shields.io/badge/-ProgramZmh-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/programzmh)
+[![Email](https://img.shields.io/badge/-ashm.tan@outlook.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:ashm.tan@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-AshmTan-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ashmcracker/?locale=en_US)
+
 
 
 [![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
@@ -21,7 +22,25 @@
 
 
 
-![Static Badge](https://img.shields.io/badge/)
 
+### 🏅 **Certifications**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3c42f0d1-3002-44ca-be58-77021256f124" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+<a href="https://www.credly.com/badges/3c42f0d1-3002-44ca-be58-77021256f124/public_url">
+  <img src="https://images.credly.com/size/220x220/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="RHCE" width="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/22c95d76-5399-4585-8357-4fb1dc1d95da/public_url">
+  <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="RHCSA" width="100"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/credentials/share/zh-cn/HaifengTan/7DF765249FD9E18D?sharingId=421F637784FB2981">
+  <img src="https://learn.microsoft.com/zh-cn/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified Associate" width="100"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/credentials/share/zh-cn/HaifengTan/7DF765249FD9E18D?sharingId=421F637784FB2981">
+  <img src="https://www.59xuexi.com/wp-content/uploads/2021/01/HCIP-Datacom-1.png" alt="HCIP-Datacom" width="100"/>
+</a>
+
+</div>
